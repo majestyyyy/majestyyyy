@@ -3,7 +3,7 @@
 # Hi, I'm John Lloyd Parungao 👋
 ### Associate Software Engineer @ Accenture Philippines · Full-Stack & Mobile Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-domain.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=white)](https://jlp-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-lloyd-parungao-0a1578407/)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parungao.johnlloyd07@gmail.com)
 
@@ -15,17 +15,17 @@
 
 ---
 
-### 💼 About Me
+### About Me
 
-- 🏢 **Current Role**: Associate Software Engineer under Application Development at **Accenture Philippines**
-- 🎓 **Education**: BS Computer Science graduate from **University of the East — Manila**
-- 🛠️ **Focus Areas**: Enterprise Full-Stack Development (`Java`, `Spring Framework`, `React`), Cross-Platform Mobile (`Flutter`, `React Native`), and Cloud (`Microsoft Azure`)
-- 🏛️ **Leadership**: Former Business Manager for the University Student Council & CCSS Student Council; YMCA National Congress Delegate (2025, 2026)
-- 📍 **Location**: Metro Manila, Philippines
+- **Current Role**: Associate Software Engineer under Application Development at **Accenture Philippines**
+- **Education**: BS Computer Science graduate from **University of the East — Manila**
+- **Focus Areas**: Enterprise Full-Stack Development (`Java`, `Spring Framework`, `React`), Cross-Platform Mobile (`Flutter`, `React Native`), and Cloud (`Microsoft Azure`)
+- **Leadership**: Former Business Manager for the University Student Council & CCSS Student Council; YMCA National Congress Delegate (2025, 2026)
+- **Location**: Metro Manila, Philippines
 
 ---
 
-### 🚀 Featured Live Projects
+### Featured Live Projects
 
 | Project | Description | Tech Stack | Live Demo |
 | :--- | :--- | :--- | :---: |
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 #### **Languages**
 <p>
@@ -74,27 +74,10 @@
 
 ---
 
-### 📜 Certifications
+### Certifications
 
-- 🏅 **Azure AI Fundamentals** — *Microsoft (2026)*
-- 🏅 **Python Information Technology Specialist** — *Certiport (2025)*
-- 🏅 **AI for Good** — *AI Singapore · Meta (2025)*
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=majestyyyy&show_icons=true&theme=dark&bg_color=0a0a0b&border_color=27272a&title_color=a78bfa&text_color=a1a1aa&icon_color=818cf8&hide_border=false" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=majestyyyy&layout=compact&theme=dark&bg_color=0a0a0b&border_color=27272a&title_color=a78bfa&text_color=a1a1aa&hide_border=false" alt="Top Languages" width="48%" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=majestyyyy&theme=dark&background=0a0a0b&border=27272a&stroke=27272a&ring=818cf8&fire=a78bfa&currStreakNum=ffffff&sideNums=a1a1aa&currStreakLabel=a78bfa" alt="GitHub Streak" width="97%" />
-</p>
+- **Azure AI Fundamentals** — *Microsoft (2026)*
+- **Python Information Technology Specialist** — *Certiport (2025)*
+- **AI for Good** — *AI Singapore · Meta (2025)*
 
 ---
-
-<div align="center">
-  <sub>Designed with precision · Let's connect on <a href="https://www.linkedin.com/in/john-lloyd-parungao-0a1578407/">LinkedIn</a></sub>
-</div>
