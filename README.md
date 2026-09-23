@@ -3,7 +3,7 @@
 # Hi, I'm John Lloyd Parungao 👋
 ### Associate Software Engineer @ Accenture Philippines · Full-Stack & Mobile Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio.parungao.workers.dev/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0b?style=for-the-badge&logo=vercel&logoColor=white)](https://jlparungao.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-lloyd-parungao-0a1578407/)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:parungao.johnlloyd07@gmail.com)
 
